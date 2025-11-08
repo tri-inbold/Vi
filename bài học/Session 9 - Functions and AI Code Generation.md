@@ -1,4 +1,4 @@
-#Session 9 - Functions and AI Code Generation
+# Session 9 - Functions and AI Code Generation
 
 ### **Slide 1**
 
