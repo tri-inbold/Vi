@@ -1,4 +1,4 @@
-# Chương trình Phát triển Phần mềm Ô tô
+# Session 10 - Strings
 
 **Học phần:** Lập trình C/C++ cho Hệ thống Nhúng AI
 **Buổi 10:** Chuỗi (Strings)
